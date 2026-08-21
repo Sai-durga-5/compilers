@@ -1,0 +1,40 @@
+Token Name: VOID Lexeme: void Lineno: 1
+Token Name: NAME Lexeme: main Lineno: 1
+Token Name: LEFT ROUND BRACKET Lexeme: ( Lineno: 1
+Token Name: RIGHT ROUND BRACKET Lexeme: ) Lineno: 1
+Token Name: LEFT CURLY BRACKET Lexeme: { Lineno: 2
+Token Name: INTEGER Lexeme: int Lineno: 3
+Token Name: NAME Lexeme: num1 Lineno: 3
+Token Name: COMMA Lexeme: , Lineno: 3
+Token Name: NAME Lexeme: num2 Lineno: 3
+Token Name: COMMA Lexeme: , Lineno: 3
+Token Name: NAME Lexeme: greater Lineno: 3
+Token Name: SEMICOLON Lexeme: ; Lineno: 3
+Token Name: READ Lexeme: read Lineno: 4
+Token Name: NAME Lexeme: num1 Lineno: 4
+Token Name: SEMICOLON Lexeme: ; Lineno: 4
+Token Name: READ Lexeme: read Lineno: 5
+Token Name: NAME Lexeme: num2 Lineno: 5
+Token Name: SEMICOLON Lexeme: ; Lineno: 5
+Token Name: NAME Lexeme: greater Lineno: 6
+Token Name: ASSIGN OP Lexeme: = Lineno: 6
+Token Name: NAME Lexeme: num1 Lineno: 6
+Token Name: GE Lexeme: >= Lineno: 6
+Token Name: NAME Lexeme: num2 Lineno: 6
+Token Name: OR Lexeme: || Lineno: 6
+Token Name: NAME Lexeme: num1 Lineno: 6
+Token Name: MULT Lexeme: * Lineno: 6
+Token Name: NAME Lexeme: num2 Lineno: 6
+Token Name: GT Lexeme: > Lineno: 6
+Token Name: NAME Lexeme: num1 Lineno: 6
+Token Name: PLUS Lexeme: + Lineno: 6
+Token Name: NAME Lexeme: num2 Lineno: 6
+Token Name: QUESTION_MARK Lexeme: ? Lineno: 6
+Token Name: NAME Lexeme: num1 Lineno: 6
+Token Name: COLON Lexeme: : Lineno: 6
+Token Name: NAME Lexeme: num2 Lineno: 6
+Token Name: SEMICOLON Lexeme: ; Lineno: 6
+Token Name: WRITE Lexeme: print Lineno: 7
+Token Name: NAME Lexeme: greater Lineno: 7
+Token Name: SEMICOLON Lexeme: ; Lineno: 7
+Token Name: RIGHT CURLY BRACKET Lexeme: } Lineno: 8

@@ -1,0 +1,1 @@
+i have a assignment on compilers in that i have reference executable as  A2.sclp and after make i will get my implementation as sclp we need to match them erite a bash script like as i have 2 implementations keep path for them
